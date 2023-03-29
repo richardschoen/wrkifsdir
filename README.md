@@ -41,7 +41,6 @@ CALL PGM(WRKIFSDIR/SRCWRKBLDC)
 
 Using the WRKIFS command
 ```
-
 Go to menu
 GO WRKIFSDIR/WRKIFSDIR
 
