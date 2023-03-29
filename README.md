@@ -1,4 +1,4 @@
-# Work with IFS Directories - An alternative to WRKLNK 
+# Work with IFS Directories - An useful 5250 alternative to WRKLNK 
 The WRKIFSDIR command is a useful, extensible WRKLNK-like 5250 directory explorer for the Integrated File Systems (IFS).   
 
 You can define your own user defined options which makes this utility very useful in today's world of open source apps on IBM i.   
