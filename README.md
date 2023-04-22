@@ -5,7 +5,7 @@ You can define your own user defined options which makes this utility very usefu
 
 The code has been adapted from the IFSPOP utility by Ted Holt/Mark Keck published back in 2013.    
 
-IFSPOP was a nod to the old S/36 POP utility which was the predecessor for PDM on IBM i.   
+The IFSPOP app was a nod to the old S/36 POP utility which was the predecessor for PDM on IBM i.   
 
 Here's the original article, but the original file download is no longer available.     
 https://www.itjungle.com/2013/08/07/fhg080713-story01
