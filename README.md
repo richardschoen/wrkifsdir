@@ -7,7 +7,11 @@ The code has been adapted from the IFSPOP utility by Ted Holt/Mark Keck publishe
 
 IFSPOP was a nod to the old S/36 POP utility which was the predecessor for PDM on IBM i.   
 
-Here's the original article, but the original file download is no longer available. I packaged the source into a save file format so you can build and run it on your IBM i.   https://www.itjungle.com/2013/08/07/fhg080713-story01
+Here's the original article, but the original file download is no longer available.     
+https://www.itjungle.com/2013/08/07/fhg080713-story01
+
+I packaged the source into a save file format so you can build and run it on your IBM i.    
+https://github.com/richardschoen/wrkifsdir/releases/tag/V1.0.1
 
 # Sample Screen Shot
 
